@@ -1,14 +1,3 @@
-# -*- coding: utf-8 -*-
-'''
-Stage 2: detection
-Last time for updating: 04/15/2020
-'''
-
-#'''
-# Created on 18-12-11 上午10:05
-#
-# @Author: Greg Gao(laygin)
-#'''
 import numpy as np
 from config import *
 

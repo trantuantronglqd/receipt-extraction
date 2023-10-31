@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-'''
-Stage 3: recognition for predicting
-Last time for updating: 04/15/2020
-'''
-
-
 import torch
 import os, sys, time
 from torch.autograd import Variable

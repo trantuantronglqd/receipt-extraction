@@ -1,10 +1,3 @@
-# -*- coding: UTF-8 -*-
-'''
-Stage 1: preprocessing for predicting
-Last time for updating: 04/15/2020
-'''
-
-
 import os
 import cv2
 import numpy as np

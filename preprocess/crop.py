@@ -1,9 +1,3 @@
-# -*- coding: UTF-8 -*-
-'''
-Stage 1: preprocessing for training
-Last time for updating: 04/15/2020
-'''
-
 import os
 import shutil
 import cv2

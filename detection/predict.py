@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-'''
-Stage 2: detection for predicting
-Last time for updating: 04/15/2020
-'''
-# @Time    : 2018/6/11 15:54
-# @Original Author  : zhoujun
-
-
 import torch
 from torchvision import transforms
 import os

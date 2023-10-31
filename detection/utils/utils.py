@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-'''
-Stage 1: preprocessing for training
-Last time for updating: 04/15/2020
-'''
-
-# @Time    : 1/4/19 11:18 AM
-# @Author  : zhoujun
 import cv2
 import time
 import torch
